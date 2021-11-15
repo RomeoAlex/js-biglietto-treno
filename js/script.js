@@ -29,3 +29,15 @@ document.getElementById('user-message').innerHTML = sconto.toFixed(2);
 // A new Object
 // A new Function
 // A new RegExp
+
+//versione del prof
+// let userKm = prompt( parce.int ('Quanti km devi fare?'));
+// let userAge = prompt( parce.int ('Quanti km devi fare?'));
+// let price = userKm * 0.21;
+// let discount = 0;
+// if(userAge < 18){
+// discount = price *0.2;
+// } else if ( userAge > 65){
+// discount = price *0.04;
+// }
+// price = price - discount;
